@@ -1,1 +1,1 @@
-# Sales-Prediction-Using-ARIMA-
+# ARIMA-And-Seasonal-ARIMA
